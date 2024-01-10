@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo&family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo&family=KoHo:wght@300&family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo&family=KoHo:wght@300&family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@300;400;500;600&family=Ubuntu:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Arvo&family=KoHo:wght@300&family=Noto+Sans+Symbols&family=Oswald:wght@200;300;400&family=Poppins:wght@400;500;600&family=Ubuntu:wght@300&display=swap");
+
+body {
+  margin-top: 25px;
+}
+
+.container {
+  margin: auto;
+  width: 75%;
+  border: 4px solid rgb(0, 1, 77);
+  padding: 10px;
+}
+
+.img-main {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.apple1 {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.apple2 {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-family: anton;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-family: oswald;
+}
+
+.description {
+  font-family: koho;
+  text-align: justify;
+  padding: 5px 20px 10px 20px;
+}
+
+.cite-mid {
+  text-align: center;
+  background-color: #000000;
+  color: rgb(153, 199, 238);
+  margin-left: 183px;
+  margin-right: 183px;
+}
+
+.cite-mid2 {
+  text-align: center;
+  background-color: #000000;
+  color: rgb(182, 169, 133);
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: small;
+}
+
+.cite-mid3 {
+  text-align: center;
+  background-color: #000000;
+  color: rgb(182, 169, 133);
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: small;
+}
+
+cite {
+  font-family: oswald;
+}
+
+.list {
+  font-family: poppins;
+  text-align: justify;
+  padding: 20px;
+  line-height: 25px;
+}
